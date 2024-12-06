@@ -7,7 +7,7 @@ public class PrimeNumber {
         int num=input.nextInt();
         int count=0;
         if( num ==0 || num==1){
-            System.out.println("Not prime");
+            System.out.println("Not prime");// change maha
         }else {
 
             for (int i = 2; i < num; i++) {  //kono akta number k  sorbocco tar ordhek songkha diya vag kora jave tai (num/2) atao use kora jabe
